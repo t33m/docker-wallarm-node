@@ -1,1 +1,2 @@
 deb http://repo.wallarm.com/debian/wallarm-node jessie/
+deb http://repo.wallarm.com/debian/wallarm-node jessie-test/
